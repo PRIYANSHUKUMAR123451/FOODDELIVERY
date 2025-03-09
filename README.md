@@ -6,9 +6,17 @@ https://github.com/user-attachments/assets/caef7ad5-919b-4ddf-9eb7-4e65c790cd32
 https://github.com/user-attachments/assets/5175a53f-52b4-4b2f-81ad-d22c12981663
 
 https://github.com/user-attachments/assets/ffdc3078-037f-40aa-b348-d9c1730a6282
+
+
+
 #Project Management on JIRA
+
 ![Image](https://github.com/user-attachments/assets/081b1e41-5e39-415f-82e2-ba93f0d04453)
+
 ![Image](https://github.com/user-attachments/assets/526b8546-e69b-4671-8573-4b2b84469c31)
+
+
+
 #Images
 
 ![Vite + React - Google Chrome 05-08-2024 23_21_02](https://github.com/user-attachments/assets/7ff38e00-851b-410a-b812-b9ccdc41634c)
