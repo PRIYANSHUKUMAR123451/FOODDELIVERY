@@ -12,8 +12,8 @@ https://github.com/user-attachments/assets/ffdc3078-037f-40aa-b348-d9c1730a6282
 #Project Management on JIRA
 
 ![Image](https://github.com/user-attachments/assets/812afb04-947d-4b83-82ad-787cff19984b)
-![Image](https://github.com/user-attachments/assets/10d36b25-3d4c-4574-a2f1-cfd66437005f)
-![Image](https://github.com/user-attachments/assets/3b2eec3a-d928-416d-9ef0-6b2fc3e01896)
+![Image](https://github.com/user-attachments/assets/b389a7a9-31f8-42f3-954b-e04c319f6641)
+![Image](https://github.com/user-attachments/assets/7b5f7360-6c48-442c-92c2-3579bee55861)
 
 #Images
 
